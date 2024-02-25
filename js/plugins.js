@@ -3,5 +3,6 @@
 var $plugins =
 [
 {"name":"Fullscreen","status":false,"description":"Starts the game in fullscreen","parameters":{}},
-{"name":"Community_Basic","status":true,"description":"Plugin used to set basic parameters.","parameters":{"cacheLimit":"10","screenWidth":"1920","screenHeight":"1080","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}}
+{"name":"Community_Basic","status":true,"description":"Plugin used to set basic parameters.","parameters":{"cacheLimit":"10","screenWidth":"1104","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
+{"name":"GALV_LayerGraphics","status":true,"description":"(v.2.0) Create graphic layers for parallax mapping, fog, etc. View the 'Help' document for plugin commands and info.","parameters":{"Tile Size":"48"}}
 ];
