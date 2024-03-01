@@ -1,15 +1,15 @@
 [
 null,
-{"id":1,"expanded":true,"name":"01. 복도","order":1,"parentId":0,"scrollX":979,"scrollY":635.5},
-{"id":2,"expanded":true,"name":"03. 폭발사건현장","order":2,"parentId":0,"scrollX":1613,"scrollY":627.5},
-{"id":3,"expanded":true,"name":"02. 교도소 운동장","order":3,"parentId":0,"scrollX":979,"scrollY":635.5},
-{"id":4,"expanded":false,"name":"04. 상담실","order":4,"parentId":0,"scrollX":979,"scrollY":635.5},
-{"id":5,"expanded":false,"name":"05. 집","order":5,"parentId":0,"scrollX":979,"scrollY":635.5},
-{"id":6,"expanded":false,"name":"06. 상담실","order":6,"parentId":0,"scrollX":979,"scrollY":635.5},
-{"id":7,"expanded":true,"name":"07. 상점","order":7,"parentId":0,"scrollX":979,"scrollY":635.5},
-{"id":8,"expanded":false,"name":"08. 상담실","order":9,"parentId":0,"scrollX":979,"scrollY":635.5},
-{"id":9,"expanded":false,"name":"09. 폭발 사건 현장","order":10,"parentId":0,"scrollX":979,"scrollY":627.5},
-{"id":10,"expanded":false,"name":"10. 상담실","order":11,"parentId":0,"scrollX":979,"scrollY":635.5},
-{"id":11,"expanded":false,"name":"load","order":12,"parentId":0,"scrollX":979,"scrollY":635.5},
-{"id":12,"expanded":false,"name":"12.상점안","order":8,"parentId":7,"scrollX":979,"scrollY":635.5}
+{"id":1,"expanded":true,"name":"01. 복도","order":1,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":2,"expanded":true,"name":"03. 폭발사건현장","order":2,"parentId":0,"scrollX":1500,"scrollY":586.6666666666666},
+{"id":3,"expanded":true,"name":"02. 교도소 운동장","order":3,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":4,"expanded":false,"name":"04. 상담실","order":4,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":5,"expanded":false,"name":"05. 집","order":5,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":6,"expanded":false,"name":"06. 상담실","order":6,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":7,"expanded":true,"name":"07. 상점","order":7,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":8,"expanded":false,"name":"08. 상담실","order":9,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":9,"expanded":false,"name":"09. 폭발 사건 현장","order":10,"parentId":0,"scrollX":1500,"scrollY":586.6666666666666},
+{"id":10,"expanded":false,"name":"10. 상담실","order":11,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":11,"expanded":false,"name":"load","order":12,"parentId":0,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":12,"expanded":false,"name":"12.상점안","order":8,"parentId":7,"scrollX":1092,"scrollY":597.3333333333334}
 ]
