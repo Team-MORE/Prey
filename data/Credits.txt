@@ -1,8 +1,31 @@
 Text that appears outside of the block tags
 will not display in the credits scene
 
-<block:-1,-1,10,10,offbot,center,상담실>
+<block:-1,-2,10,10,offbot,center,상담실>
 \c[2]Plugin source
 Galv
-author Zalerinian
+Zalerinian
 xilefian
+
+\c[2]TEAM MORE
+-개발-
+하승재
+최경우
+
+-스토리-
+이원준
+정찬주
+
+-아트-
+이재혁
+최시훈
+박준범
+
+-사운드-
+황규찬
+
+\{\{\c[10]2024 1치킨 알만툴 게임잼\}\}
+
+개발 기간을 날려버린 바보들의 게임 - PREY
+
+\{\{\{THANKS FOR PLAYING\}\}\}
